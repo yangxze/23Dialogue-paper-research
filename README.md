@@ -16,15 +16,18 @@
 
 ## 1. Papers
 
-> 1. [Summary of ACL about dialogue](./1ACL-Dialogue.md)
-> 2. [Summary of EMNLP about dialogue](./2EMNLP-Dialogue.d)
-> 3. [Summary of AAAI about dialogue](3AAAI-Dialogue.md)
+> 1. [Summary of ACL about dialogue](./1ACL-Dialogue.md)：共81篇
+> 2. [Summary of EMNLP about dialogue](./2EMNLP-Dialogue.d)：共 篇
+> 3. [Summary of AAAI about dialogue](3AAAI-Dialogue.md)：共26篇
 
 
 
 ## 2. Survey on dialogue
 
-​	**Abstract:** In this survey, we mainly focus on the **deep learning based dialogue systems.**From the angle of **model type**：we discuss the principles, characteristics, and applications of diferent models that are widely used in dialogue systems（在对话系统中广泛使用的不同模型的原理、特点和应用）From the angle of **system type**：we discuss **task-oriented and open-domain**  dialogue systems as two streams of research（面向任务和开放域的对话系统）Furthermore, we comprehensively review the **evaluation methods and datasets** for dialogue systems to pave the way for future research.
+​	**Abstract:** In this survey, we mainly focus on the **deep learning** based dialogue systems.
+​	From the angle of **model type**：we discuss the principles, characteristics, and applications of diferent models that are widely used in dialogue systems（在对话系统中广泛使用的不同模型的原理、特点和应用）.
+​	From the angle of **system type**：we discuss **task-oriented and open-domain**  dialogue systems as two streams of research（面向任务和开放域的对话系统）.
+​	Furthermore, we comprehensively review the **evaluation methods and datasets** for dialogue systems to pave the way for future research.
 
 | Category      | User message (U)                                             | Agent response (R)                                           | External knowledge (K) |
 | ------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------- |

@@ -8,57 +8,51 @@
 
 # 二、论文调研-2023对话
 
-Issue：[Vol. 37 No. 11: AAAI-23 Technical Tracks 11](https://ojs.aaai.org/index.php/AAAI/issue/view/558)
-
-section：AAAI Technical Track on Speech & Natural Language Processing
-
-**Published:** 2023-06-27
+ 2023 Processing EMNLP 官网还没有出
 
 
 
 ## 1.Dialogue
 
-| Num  | Paper                                                        | Summary    | Note              |
-| ---- | ------------------------------------------------------------ | ---------- | ----------------- |
-| 1    | [Learning to Memorize Entailment and Discourse Relations for Persona-Consistent Dialogues](https://ojs.aaai.org/index.php/AAAI/article/view/26489) | ==【QA】== | Yunnan University |
-| 2    | [Learning towards Selective Data Augmentation for Dialogue Generation](https://ojs.aaai.org/index.php/AAAI/article/view/26491) | ==【】==   |                   |
-| 3    | [Learning to Imagine: Distillation-Based Interactive Context Exploitation for Dialogue State Tracking](https://ojs.aaai.org/index.php/AAAI/article/view/26510) | ==【】==   |                   |
-| 4    | [Personalized Dialogue Generation with Persona-Adaptive Attention](https://ojs.aaai.org/index.php/AAAI/article/view/26518) | ==【】==   |                   |
-| 5    | [Explaining (Sarcastic) Utterances to Enhance Affect Understanding in Multimodal Dialogues](https://ojs.aaai.org/index.php/AAAI/article/view/26526) | ==【】==   |                   |
-| 6    | [Mitigating Negative Style Transfer in Hybrid Dialogue System](https://ojs.aaai.org/index.php/AAAI/article/view/26539) | ==【】==   |                   |
-| 7    | [Heterogeneous-Branch Collaborative Learning for Dialogue Generation](https://ojs.aaai.org/index.php/AAAI/article/view/26544) | ==【】==   |                   |
-| 8    | [Learning to Know Myself: A Coarse-to-Fine Persona-Aware Training Framework for Personalized Dialogue Generation](https://ojs.aaai.org/index.php/AAAI/article/view/26545) |            |                   |
-| 9    | [A Disentangled-Attention Based Framework with Persona-Aware Prompt Learning for Dialogue Generation](https://ojs.aaai.org/index.php/AAAI/article/view/26556) | ==【】==   |                   |
-| 10   | [Towards Complex Scenarios: Building End-to-End Task-Oriented Dialogue System across Multiple Knowledge Bases](https://ojs.aaai.org/index.php/AAAI/article/view/26581) | ==【】==   |                   |
-| 11   | [Towards Diverse, Relevant and Coherent Open-Domain Dialogue Generation via Hybrid Latent Variables](https://ojs.aaai.org/index.php/AAAI/article/view/26594) | ==【】==   |                   |
-| 12   | [Taming Continuous Posteriors for Latent Variational Dialogue Policies](https://ojs.aaai.org/index.php/AAAI/article/view/26602) | ==【】==   |                   |
-| 13   | [Dialogue Rewriting via Skeleton-Guided Generation](https://ojs.aaai.org/index.php/AAAI/article/view/26619) | ==【】==   |                   |
-| 14   | [Dialogue State Distillation Network with Inter-slot Contrastive Learning for Dialogue State Tracking](https://ojs.aaai.org/index.php/AAAI/article/view/26620) | ==【】==   |                   |
-| 15   | [Balanced Meta Learning and Diverse Sampling for Lifelong Task-Oriented Dialogue Systems](https://ojs.aaai.org/index.php/AAAI/article/view/26621) | ==【】==   |                   |
-
-
+| Num  | Paper | Summary  |
+| ---- | ----- | -------- |
+| 1    | []()  | **【】** |
+| 2    | []()  | **【】** |
+| 3    | []()  | **【】** |
+| 4    | []()  | **【】** |
+| 5    | []()  | **【】** |
+| 6    | []()  | **【】** |
+| 7    | []()  | **【】** |
+| 8    | []()  | **【】** |
+| 9    | []()  | **【】** |
+| 10   | []()  | **【】** |
+| 11   | []()  | **【】** |
+| 12   | []()  | **【】** |
+| 13   | []()  | **【】** |
+| 14   | []()  | **【】** |
+| 15   | []()  | **【】** |
 
 ## 2.Conversation
 
-| Num  | Paper                                                        | Summary  |      |
-| ---- | ------------------------------------------------------------ | -------- | ---- |
-| 1    | [End-to-End Deep Reinforcement Learning for Conversation Disentanglement](https://ojs.aaai.org/index.php/AAAI/article/view/26480) | ==【】== |      |
-| 2    | [CP-Rec: Contextual Prompting for Conversational Recommender Systems](https://ojs.aaai.org/index.php/AAAI/article/view/26487) | ==【】== |      |
-| 3    | [MIGA: A Unified Multi-Task Generation Framework for Conversational Text-to-SQL](https://ojs.aaai.org/index.php/AAAI/article/view/26504) | ==【】== |      |
-| 4    | [SKIER: A Symbolic Knowledge Integrated Model for Conversational Emotion Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/26541) | ==【】== |      |
-| 5    | [SPRING: Situated Conversation Agent Pretrained with Multimodal Questions from Incremental Layout Graph](https://ojs.aaai.org/index.php/AAAI/article/view/26562) | ==【】== |      |
-| 6    | [BERT-ERC: Fine-Tuning BERT Is Enough for Emotion Recognition in Conversation](https://ojs.aaai.org/index.php/AAAI/article/view/26582) | ==【】== |      |
-| 7    | [ConvNTM: Conversational Neural Topic Model](https://ojs.aaai.org/index.php/AAAI/article/view/26595) | ==【】== |      |
-| 8    | [Contrastive Learning Reduces Hallucination in Conversations](https://ojs.aaai.org/index.php/AAAI/article/view/26596) | ==【】== |      |
-|      |                                                              |          |      |
+| Num  | Paper | Summary  |
+| ---- | ----- | -------- |
+| 1    | []()  | **【】** |
+| 2    | []()  | **【】** |
+| 3    | []()  | **【】** |
+| 4    | []()  | **【】** |
+| 5    | []()  | **【】** |
+| 6    | []()  | **【】** |
+| 7    | []()  | **【】** |
+| 8    | []()  | **【】** |
+| 9    | []()  | **【】** |
 
 
 
 ## 3.Interaction
 
-| Num  | Paper                                                        | Summary  |      |
-| ---- | ------------------------------------------------------------ | -------- | ---- |
-| 1    | [Improving Interpretability via Explicit Word Interaction Graph Layer](https://ojs.aaai.org/index.php/AAAI/article/view/26586) | ==【】== |      |
-| 2    | [Improving Biomedical Entity Linking with Cross-Entity Interaction](https://ojs.aaai.org/index.php/AAAI/article/view/26624) | ==【】== |      |
-| 3    | [Knowledge-Bridged Causal Interaction Network for Causal Emotion Entailment](https://ojs.aaai.org/index.php/AAAI/article/view/26641) | ==【】== |      |
+| Num  | Paper | Summary  |
+| ---- | ----- | -------- |
+| 1    | []()  | **【】** |
+| 2    | []()  | **【】** |
+| 3    | []()  | **【】** |
 
